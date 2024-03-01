@@ -53,7 +53,7 @@
 #endif
 
 #ifndef CJSON_VERSION
-#define CJSON_VERSION   "2.1.0.12.hig"
+#define CJSON_VERSION   "2.1.0.13.hig"
 #endif
 
 #ifdef _MSC_VER
